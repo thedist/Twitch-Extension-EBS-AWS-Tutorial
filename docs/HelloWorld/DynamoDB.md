@@ -1,4 +1,4 @@
-# Creating a DynamodDB table
+# Creating a DynamoDB table
 DynamoDB is a NoSQL database that you pay for only what you use, and the free tier provided by Amazon (that does not expire) allows you enough for 25GB/month storage, and 25 read and 25 write capacity units, which will be more than enough to get started.
 
 
